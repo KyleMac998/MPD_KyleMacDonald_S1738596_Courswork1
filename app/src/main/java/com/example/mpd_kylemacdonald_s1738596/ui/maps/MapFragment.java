@@ -190,7 +190,7 @@ import javax.xml.parsers.DocumentBuilderFactory;
                                 georss = "No Description";
                             }
 
-                            ArrayList.add(title + "abcd" + description + "abcd" + georss);
+                            ArrayList.add(title + "abcd" + description.replace("<br />", "\n") + "abcd" + georss);
 
                         }
                     }

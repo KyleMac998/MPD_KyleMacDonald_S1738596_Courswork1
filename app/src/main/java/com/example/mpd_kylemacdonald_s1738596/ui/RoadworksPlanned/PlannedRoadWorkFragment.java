@@ -118,7 +118,7 @@ public class PlannedRoadWorkFragment extends Fragment {
 
                             }
 
-                            String foundData = "\n" + title + "\n\n" + description + "\n\n" + "Publish Date: " +  pubDate;
+                            String foundData = "\n" + title + "\n\n" + description.replace("<br />", "\n") + "\n\n" + "Publish Date: " +  pubDate;
 
 
                             ArrayList.add(foundData);

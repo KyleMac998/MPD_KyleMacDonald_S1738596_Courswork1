@@ -244,6 +244,10 @@
         "source": "C:\\Users\\Kyle\\Desktop\\MPD_KyleMacDonald_S1738596\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "C:\\Users\\Kyle\\Desktop\\MPD_KyleMacDonald_S1738596\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_map.xml.flat",
+        "source": "C:\\Users\\Kyle\\Desktop\\MPD_KyleMacDonald_S1738596\\app\\src\\main\\res\\layout-land\\fragment_map.xml"
+    },
+    {
         "merged": "C:\\Users\\Kyle\\Desktop\\MPD_KyleMacDonald_S1738596\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
         "source": "C:\\Users\\Kyle\\Desktop\\MPD_KyleMacDonald_S1738596\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
     },
