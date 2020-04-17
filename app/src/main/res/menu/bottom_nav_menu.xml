@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_incidents"
+        android:icon="@drawable/ic_warning_black_24dp"
+        android:title="Current Incidents" />
+
+    <item
+        android:id="@+id/navigation_RoadWorks"
+        android:icon="@drawable/ic_build_black_24dp"
+        android:title= "Current Roadworks" />
+
+    <item
+        android:id="@+id/navigation_PRoadworks"
+        android:icon="@drawable/ic_directions_car_black_24dp"
+        android:title="Planned Roadworks" />
+
+
+    <item
+        android:id="@+id/navigation_maps"
+        android:icon="@drawable/ic_navigation_black_24dp"
+        android:title="Interactive Map" />
+
+
+
+
+
+
+
+
+</menu>

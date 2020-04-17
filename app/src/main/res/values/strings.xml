@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MPD_KyleMacDonald_S1738596</string>
+    <string name="title_incident">Current Incidents</string>
+    <string name="search">....Search</string>
+    <string name="title_roadworks">Roadworks</string>
+    <string name="title_PlannedRoadworks">Planned Roadworks</string>
+    <string name="google_maps_api">AIzaSyCkNOkg-QeytbAeAut0Vni7QECUYa9W808</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="self_destruct" />
+    <string name="Satellite" />
+    <string name="Normal" />
+</resources>

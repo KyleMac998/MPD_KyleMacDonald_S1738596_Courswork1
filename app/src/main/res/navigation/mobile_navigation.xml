@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_incidents">
+
+
+    <fragment
+        android:id="@+id/navigation_incidents"
+        android:name="com.example.mpd_kylemacdonald_s1738596.ui.Incident.IncidentFragment"
+        android:label="Current Incidents S1738596"
+        tools:layout="@layout/fragment_incidents" />
+
+
+    <fragment
+    android:id="@+id/navigation_RoadWorks"
+    android:name="com.example.mpd_kylemacdonald_s1738596.ui.Roadworks.RoadworksFragment"
+    android:label="Current Roadworks S1738596"
+    tools:layout="@layout/fragment_roadworks" />
+
+    <fragment
+        android:id="@+id/navigation_PRoadworks"
+        android:name="com.example.mpd_kylemacdonald_s1738596.ui.RoadworksPlanned.PlannedRoadWorkFragment"
+        android:label="Planned Roadworks S1738596"
+        tools:layout="@layout/fragment_roadworks" />
+
+
+    <fragment
+        android:id="@+id/navigation_maps"
+        android:name="com.example.mpd_kylemacdonald_s1738596.ui.maps.MapFragment"
+        android:label="Interactive Map S1738596"
+        tools:layout="@layout/fragment_map" />
+
+</navigation>
