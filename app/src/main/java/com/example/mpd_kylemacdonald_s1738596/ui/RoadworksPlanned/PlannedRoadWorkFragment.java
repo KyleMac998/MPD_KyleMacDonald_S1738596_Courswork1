@@ -72,6 +72,9 @@ public class PlannedRoadWorkFragment extends Fragment {
         return root;
     }
 
+
+    // Based off this tutorial: https://www.youtube.com/watch?v=YF2kt3OxLs4
+
     private class AsyncTask extends android.os.AsyncTask<Integer, Integer, ArrayList<String>>{
 
 

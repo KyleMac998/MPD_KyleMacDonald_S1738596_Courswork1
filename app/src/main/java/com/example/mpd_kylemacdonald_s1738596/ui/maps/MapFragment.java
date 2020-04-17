@@ -155,6 +155,8 @@ import javax.xml.parsers.DocumentBuilderFactory;
         }
 
 
+        // Based off this tutorial: https://www.youtube.com/watch?v=YF2kt3OxLs4
+
         public class AsyncTask extends android.os.AsyncTask<Integer, Integer, ArrayList<String>>{
 
             @Override
